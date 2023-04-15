@@ -1,0 +1,9 @@
+body{background-color:rgb(201, 201, 247);}
+#name{text-align: center; font-style: italic; text-decoration: underline;}
+h1{text-align: center; font-style: italic;font-size: 40px;text-decoration: overline;}
+ol{font-weight: bold;}
+.image{display: block; margin-left: auto; margin-right: auto; width: 100%;}
+.header{ height: 95px; background-color: aliceblue; color: rgb(182, 182, 232);}
+.common{font-family:'Times New Roman', Times, serif;}
+.footer{height:25px; background-color: aliceblue; color: rgb(181, 181, 243); position: fixed; bottom: 0px;right: 5px;left: 5px;padding-top: 15px; text-align: center;}
+.body{background-color:aliceblue; height: 400px;}
